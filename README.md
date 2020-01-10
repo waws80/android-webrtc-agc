@@ -1,6 +1,6 @@
 # android-webrtc-agc
 
-### Android单独抽取WebRtc-AGC(语音端点检测)模块
+### Android单独抽取WebRtc-AGC(音频增益)模块
 
 #### csdn:https://blog.csdn.net/always_and_forever_/article/details/78472872
 
